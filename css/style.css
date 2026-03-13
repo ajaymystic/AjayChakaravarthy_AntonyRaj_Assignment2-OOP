@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 860px;
+    margin: 40px auto;
+    background: #0d0d0d;
+    color: #eee;
+}
+
+h1 {
+    color: #e63946;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+h2 {
+    color: #f4a261;
+    border-bottom: 1px solid #333;
+    padding-bottom: 4px;
+    margin-top: 32px;
+}
+
+p {
+    margin: 6px 0;
+    line-height: 1.6;
+}
+
+.tag {
+    display: inline-block;
+    background: #1d3557;
+    color: #a8dadc;
+    font-size: 0.75em;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-right: 6px;
+}
